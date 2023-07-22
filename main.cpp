@@ -5,14 +5,14 @@
 #include <list>
 using namespace std;
 
-//dollar equivalent amount of each currency from number 1 - 22 in 
+//dollar equivalent amount for each currency from number 1 - 22 in 
 double currencyDollarEquivalent[22] = {
         0.012, 0.0074, 0.0012, 0.0038, 0.0026, 0.68, 0.0092,
         0.00024, 0.76, 0.14, 0.00025, 0.032, 1.12, 0.088, 0.012, 
         0.0072, 3.27, 0.56, 0.0013, 1.31, 1.0, 0.0017
 };
 
-//To do: array-> names of currency to be printed with each currency.
+//To do: array-> names to be printed with each currency.
 /*string nameOfCountries[22] = {
             "Afghan Afghani", "Algerian Dinar", "Angolan Kwanza",
             "Argentine Peso", "Armenian Dram", "Australian Dollar",
